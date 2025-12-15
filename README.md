@@ -30,3 +30,4 @@ This project analyzes sales data to identify revenue trends, category performanc
 ## Conclusion
 This project demonstrates end-to-end data analysis skills, including data cleaning, SQL querying, dashboard creation, and business insight generation.
 
+
